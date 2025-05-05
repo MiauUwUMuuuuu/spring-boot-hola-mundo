@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.holamundo.ejemplo.holamundo.HolamundoApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.562 s -- in com.holamundo.ejemplo.holamundo.HolamundoApplicationTests
